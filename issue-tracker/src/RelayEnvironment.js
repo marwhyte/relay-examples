@@ -1,5 +1,5 @@
 import { Environment, Network, RecordSource, Store } from 'relay-runtime';
-
+// additional comment
 /**
  * Relay requires developers to configure a "fetch" function that tells Relay how to load
  * the results of GraphQL queries from your server (or other data source). See more at
